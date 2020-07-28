@@ -1,6 +1,6 @@
 # antoineBOT
 Bot discord permettant de faire une multitude d'actions plus ou moins utiles :)
-Discor Bot with more or less useful functions.
+Discord Bot with more or less useful functions.
 
 BOT créé pendant le confinement capable de scruter des chaines ou une chaine spécifique d'un salon discord pour envoyer des réponses plus ou moins utiles.
 
